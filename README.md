@@ -63,7 +63,6 @@ Seorang siswa ingin mengetahui apakah nilai ujiannya memenuhi syarat lulus berda
 - Operator relasional `>=` digunakan untuk menentukan kelulusan.
 
 ## Program Python
-
 File `kelulusan.py` berisi program untuk:
 1. Menerima input 3 nilai mata pelajaran.
 2. Menghitung rata-rata nilai.
